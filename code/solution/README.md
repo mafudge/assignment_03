@@ -10,10 +10,6 @@ This assignment will focus on streamlit. You will write three programs, each of 
 
 The layout of this assignment is similar to Assignment_02. You will not need the tests.
 
-### How to use the solutions
-
-This assignment includes a `solutions` folder. These are there to help you get unstuck. Don't use them unless you absolutely need them. If you do use them I suggest reading the code to understand it and then trying write it yourself. You are not going to get better at Python by copying my solutions. You need to struggle and feel uncomfortable to become a better programmer. This is how you build the deep connections essential to learning any subject.
-
 ### Prerequisites 
 
 Before starting this assignment you must install the assignemnt Python requirements:
