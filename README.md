@@ -71,3 +71,19 @@ For each file you read, you only need to output the summary information eg. "X p
 - Write your reflection in `reflection.md`
 - Commit your changes: VS Code -> menu -> View -> Source Control -> Enter Commit message -> Click "Commit"
 - Push your changes: VS Code -> menu -> View -> Source Control -> Click "Sync Changes"
+
+## Grading 
+
+🤖 Beep, Boop. This assignment is bot-graded! When you push your code to GitHub, my graderbot is notified there is something to grade. The bot then takes the following actions:
+
+1. Your assignment repository is cloned from Github
+2. The bot checks your code and commits according to guidelines outlined in `assignment-criteria.json` (it runs tests, checking code correctness, etc.)
+3. The bot reads your `reflection.md` and provides areas for improvement (based on the instructions in the file).
+4. A grade is assigned by the bot. Feedback is generated including justification for the grade given.
+5. The grade and feedback are posted to Blackboard.
+
+You are welcome to review the bot's feedback and improve your submission as often as you like.
+
+**NOTE: ** Consider this an experiment in the future of education. The graderbot is an AI teaching assistant. Like a human grader, it will make mistakes. Please feel free to question the bots' feedback! Do not feel as if you should gamify the bot. Talk to me! Like a person, we must teach it how to do its job effectively. 
+
+
