@@ -16,7 +16,7 @@ This assignment includes a `solutions` folder. These are there to help you get u
 
 ### Prerequisites 
 
-Before starting this assignment you must install the assignemnt Python requirements:
+Before starting this assignment you must install the assignment Python requirements:
 
 1. From VS Code, open a terminal: Menu => Terminal => New Terminal
 2. In the terminal, type and enter:   
@@ -37,7 +37,7 @@ Recall:
 
 Write a streamlit to input one string of package data. It should use the `packaging.py` module to parse the string and output the package info as it appears. Calculate the total package size then display it. 
 
-![Screenshot of one_package.py exeuction](one_package.png)
+![Screenshot of one_package.py execution](one_package.png)
 
 **ADVICE:** remember streamit runs on initial load so make sure to only process the package data when it is input.
 
@@ -47,9 +47,9 @@ Write a streamlit to input one string of package data. It should use the `packag
 
 Next, write a streamlit to read one file of packaging information and write out the parsed packaging as a JSON file. The is the same program you wrote in assignment_02 only it uses streamlit. You should output the parsed package and total package size for each package in the file.
 
-![Screenshot of process_file.py exeuction](process_file.png)
+![Screenshot of process_file.py execution](process_file.png)
 
-**ADVICE:** you will need to convert the uploaded file contents from teh streamlit widget to text and process it a line at a time (see example from class).
+**ADVICE:** you will need to convert the uploaded file contents from the streamlit widget to text and process it a line at a time (see example from class).
 
 **COMMIT YOUR CODE AFTER YOU COMPLETE THIS PART**
 
@@ -59,7 +59,7 @@ In this final program, you will re-write your `process_file.py` to keep track of
 
 For each file you read, you only need to output the summary information eg. "X packages written to file.json".
 
-![Screenshot of process_files.py exeuction](process_files.png)
+![Screenshot of process_files.py execution](process_files.png)
 
 **ADVICE:** you will need to store the history of files processed, and the totals / counts in the streamlit sessions state.
 
